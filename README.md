@@ -1,2 +1,2 @@
-# AlliedGlobalTechnologyServices
+# AGTechnologyServices
 AutomationTestingChallenge
